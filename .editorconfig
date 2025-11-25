@@ -155,6 +155,9 @@ dotnet_diagnostic.ca1819.severity = none
 # CA1848: Use the LoggerMessage delegates
 dotnet_diagnostic.CA1848.severity = silent
 
+# CA1873: Avoid potentially expensive logging
+dotnet_diagnostic.CA1873.severity = silent
+
 # CA2007: Consider calling ConfigureAwait on the awaited task
 dotnet_diagnostic.CA2007.severity  =  none
 
